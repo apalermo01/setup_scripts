@@ -1,7 +1,7 @@
 sudo pacman -Syu
 
 ### some packages
-sudo pacman -S openssh thunar gnome-terminal python-wal
+sudo pacman -S openssh thunar gnome-terminal
 
 ### installs
 bash ./installs/yay.sh
