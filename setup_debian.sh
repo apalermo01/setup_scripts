@@ -8,3 +8,5 @@ fi
 echo "********** XPPEN *************"
 bash ./installs/xppen.sh
 
+echo "********** NODEJS ************"
+curl -sL install-node.vercel.app/lts | bash
