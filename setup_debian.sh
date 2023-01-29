@@ -9,4 +9,11 @@ echo "********** XPPEN *************"
 bash ./installs/xppen.sh
 
 echo "********** NODEJS ************"
-curl -sL install-node.vercel.app/lts | bash
+sudo curl -sL install-node.vercel.app/lts | sudo bash
+
+echo "********** ZOOM **************"
+bash ./installs/zoom.sh
+
+echo "********** XOURNALPP *********"
+sudo apt install xournalpp
+
