@@ -17,3 +17,5 @@ bash ./installs/zoom.sh
 echo "********** XOURNALPP *********"
 sudo apt install xournalpp
 
+echo "********** BRAVE *************"
+bash ./instaslls/brave_debian_ubuntu_mint.sh
